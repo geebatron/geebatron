@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @geebatron
 - 👀 I’m interested in audio software
-- 🌱 I’m currently learning Python, C++, JavaScript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
